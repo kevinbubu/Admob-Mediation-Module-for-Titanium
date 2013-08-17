@@ -1,0 +1,18 @@
+#
+# this is your module manifest and used by Titanium
+# during compilation, packaging, distribution, etc.
+#
+version: 1.0
+apiversion: 2
+description: My module
+author: Kevin Huang
+license: Specify your license
+copyright: Copyright © 2012 OH!Cool CO., LTD.
+
+
+# these should not be edited
+name: admobmediation
+moduleid: chocolabs.admobmediation
+guid: 9c3b7f72-8c16-4c35-979d-a5c21f3aeeed
+platform: iphone
+minsdk: 2.1.4.GA
